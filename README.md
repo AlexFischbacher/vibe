@@ -4,8 +4,8 @@ vibe is a beatmap editor for the [osu!](https://osu.ppy.sh/home) rhythm game, wr
 ## Features
  - **A library to store patterns and sliders.** Never again need to redraw the same wave slider over and over again. Simply save a pattern or a slider to the library, and paste it wherever or whenever you need. Patterns saved with the library are context-sensitive, and will not place bad simply due to changing bpm throughout maps!
  - **An alternative keyboard-centric and vi-inspired editing experience.** vibe has the ability to be turned into a vi-like editor, with modes, motions, and operators. The efficiency of using this setup is definitely worth learning, but is not enabled by default to support those that transfer from the original osu! editor.
+ - **An extreme improvement of osu!catch mapping.** Vibe is a fully functional osu!catch editor, meaning testing maps is no longer necessary to map Catch the Beat.
  - **Bookmark labels.** vibe has support for bookmark labels in the form of comments parsed from .osu files to allow mappers to logically organize a map and quickly go between sections of a map.
- - **Extremely improved editing of osu!catch maps.** Vibe is a fully functional osu!catch editor, meaning testing maps is no longer necessary to map Catch the Beat.
  - **Faster dilation and rotation of objects and patterns.** Inspired by photo editors, vibe makes it very easy to quickly turn or scale things.
  - **In-editor modding.** You should never need to leave the editor to suggest changes to a map.
  - **Improved hitsounding and timing.** Copy complex timing between difficulties with an improved object resnap, and allow for keybinds that select patterns of object rhythm to allow for insanely fast hitsounding.
