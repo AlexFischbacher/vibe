@@ -6,7 +6,7 @@ vibe is a beatmap editor for the [osu!](https://osu.ppy.sh/home) rhythm game, wr
  - **An alternative keyboard-centric and vi-inspired editing experience.** vibe has the ability to be turned into a vi-like editor, with modes, motions, and operators. The efficiency of using this setup is definitely worth learning, but is not enabled by default to support those that transfer from the original osu! editor.
  - **Bookmark labels.** vibe has support for bookmark labels in the form of comments parsed from .osu files to allow mappers to logically organize a map and quickly go between sections of a map.
  - **Faster dilation and rotation of objects and patterns.** Inspired by photo editors, vibe makes it very easy to quickly turn or scale things.
- - **In-editor modding.** You should never need to leave the editor to suggest changes to a map, and vibe works to fulfill that goal.
+ - **In-editor modding.** You should never need to leave the editor to suggest changes to a map.
  - **Improved hitsounding and timing.** Copy complex timing between difficulties with an improved object resnap, and allow for keybinds that select patterns of object rhythm to allow for insanely fast hitsounding.
  - **Jury, the map checker.** Jury is an advanced osu! map checker that can check and automatically refactor objects that break the ranking criteria. Jury will have multiple front-ends, including a web version, a standalone Qt application, and the implementation for vibe.
  - **Live, collaborative mapping.** Passing .osu files between collaborators is tedious and inefficient. With live editing, vibe gives mappers the power to work together and allows mentors to demonstrate concepts to mentees in real time.
