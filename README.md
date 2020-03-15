@@ -13,3 +13,6 @@ vibe is a beatmap editor for the [osu!](https://osu.ppy.sh/home) rhythm game, wr
  - **Plugins made with Guile Scheme.** As vibe is created with the power of C, Guile Scheme is leveraged to allow user-created plugins. *Please note: community-made plugins have the potential to be dangerous. A list of approved extensions is located at the wiki. Never download untrusted software to your computer, as you run the risk of installing malcious code. You have been warned.*
  - **Reverse distance snap.** Repairing a pattern that uses distance snap? Simply swap the distance snap mode and restrict movement to an area around the object that comes after the object you are placing!
  - **Support for custom snapping.** Avoid needing to change BPM to use snaps like 1/5 or 1/7 for peculiar songs.
+
+## Install
+Unfortunately, vibe is unable to be downlaoded at this time. I am working on this as my main project for spring break, and as such will likely have a release somewhere in the future. When a release is made, you will be able go to the releases section and download prebuilt binaries or go to your respective Linux distribution's package manager and install from there. I plan on pushing to the AUR at the very least.
