@@ -1,5 +1,5 @@
 # vibe, the enhanced osu! editor
-vibe is a beatmap editor for the [osu!](https://osu.ppy.sh/home) rhythm game, written with C and SDL2. vibe aims to improve the experience of osu! editing by reducing the amount of repetitive actions, implementing specific features through the Guile Scheme extension system, and allowing mappers to collaborate in real-time.
+vibe is a beatmap editor for the [osu!](https://osu.ppy.sh/home) rhythm game, written with C and SDL2. vibe aims to improve the experience of osu! editing by reducing the amount of repetitive actions, implementing a plugin system through a JSON-based IPC format, and allowing mappers to collaborate in real-time.
 
 ## Features
  - **A library to store patterns and sliders.** Never again need to redraw the same wave slider over and over again. Simply save a pattern or a slider to the library, and paste it wherever or whenever you need. Patterns saved with the library are context-sensitive, and will not place bad simply due to changing bpm throughout maps!
